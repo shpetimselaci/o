@@ -1,4 +1,4 @@
-import reactLogo from "./assets/react.svg";
+import reactLogo from "../public/o.svg";
 import "./App.css";
 
 function App() {
@@ -14,8 +14,10 @@ function App() {
         </code>
       </div>
 
-      <footer style={{ marginTop: "auto", display: "block",  }}>
-        <code style={{ fontSize: 9 }}><strong style={{ fontSize: 10 }}>O</strong> © 2024.</code>
+      <footer style={{ marginTop: "auto", display: "block" }}>
+        <code style={{ fontSize: 9 }}>
+          <strong style={{ fontSize: 10 }}>O</strong> © 2024.
+        </code>
       </footer>
     </>
   );
